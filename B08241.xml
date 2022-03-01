@@ -1,0 +1,773 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plaine and easie catechisme: wherein the grounds and principles of Christian religion are briefly taught; and likewise proved by scripture. Published for the benefit of all, / by R. A.</title>
+            <author>R. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08241</idno>
+            <idno type="STC">Wing A27AA</idno>
+            <idno type="STC">ESTC R175349</idno>
+            <idno type="EEBO-CITATION">64550733</idno>
+            <idno type="OCLC">ocm 64550733</idno>
+            <idno type="VID">184282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184282)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2857:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plaine and easie catechisme: wherein the grounds and principles of Christian religion are briefly taught; and likewise proved by scripture. Published for the benefit of all, / by R. A.</title>
+                  <author>R. A.</author>
+               </titleStmt>
+               <extent>[18] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Franckling and are to be sold at his Shop Near the Signe of the George in Norwich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+                  <note>Bound and filmed with Wing A27B and Wing C5316A: The saints duty discoursed from 2 Pet 3, 18 and the saints dignity handled from Eph chap I, v. 7 with directions to both delivered from a chatecheticall dialogue ... / by him that was and is ... London : Printed for William Franckling and are to be sold at his Shop Near the Signe of the George in Norwhich, 1649 -- Faith &amp; experience, or, A short narration of the holy life and death of Mary Simpson, late of Gregories Parish in the city of Norvvich : who dyed, anno 1647 in or about the thirtieth yeare of her age after 3 years sicknesse and upwards containing a confession of her faith and relation of her experience taken from her owne mouth to which is added a sermon preached at her funerall, upon Rom. 14. 6,7 / by John Collings. London : Printed for Richard Tomlins and are to be sold at his House at the Signe of the Sun and Bible in Pye-Corner, 1649.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184282:1"/>
+            <pb facs="tcp:184282:1"/>
+            <p>A PLAINE AND EASIE CATECHISME: Wherein the Grounds and Principles of <hi>Chriſtian Reli<g ref="char:EOLhyphen"/>gion</hi> are briefly taught; And likewiſe proved by SCRIPTURE.</p>
+            <p>Publiſhed for the benefit of all, By <hi>R: A.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Franckling,</hi> and are to be ſold at his Shop near the Signe of the <hi>George</hi> in <hi>Norwich.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:184282:2"/>
+            <pb facs="tcp:184282:2"/>
+            <head>A Plaine and eaſie CATECHISME.</head>
+            <p>
+               <label>Qu</label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat Religion doſt thou pro<g ref="char:EOLhyphen"/>feſſe?</hi>
+            </p>
+            <p>
+               <label>An.</label> The Chriſtian Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the Chriſti<g ref="char:EOLhyphen"/>an RELIGION?</hi>
+            </p>
+            <p>
+               <label>A.</label> The worſhipping the true God as preſcribed, <hi>Mat.</hi> 4.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How know you this the true Religion?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, this Religion forbids all evill, and commands all good, <hi>Iſa.</hi> 1.16, 17.</p>
+            <p>Secondly, this commands the heart as life, <hi>Deut.</hi> 26.16.</p>
+            <p>Thirdly, it is a ſpirituall reall worſhip, <hi>Iohn.</hi> 4.24.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How come you to underſtand this Reli<g ref="char:EOLhyphen"/>gion?</hi>
+            </p>
+            <p>
+               <label>A.</label> By catechizing: by preaching.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is catechizing?</hi>
+            </p>
+            <p>
+               <label>A.</label> A plain familiar teaching of the prin<g ref="char:EOLhyphen"/>ciples of Religion: by which I am made a<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:184282:3"/>to anſwer thereto, queſtioned therein, <hi>Heb.</hi> 6.1, 2. 1 <hi>Pet.</hi> 3.15.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doe you underſtand by preaching?</hi>
+            </p>
+            <p>
+               <label>A.</label> A ſound opening of Scripture by Scripture, with a ſuitable application to the benefit of the hearer, <hi>Luk.</hi> 4.18, 19.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who are to catechize?</hi>
+            </p>
+            <p>
+               <label>A.</label> Paſtors in their flocks, <hi>Ioh.</hi> 21.15. Parents in their families, <hi>Eph.</hi> 6.4.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who are to be catechized?</hi>
+            </p>
+            <p>
+               <label>A.</label> Children in yeares, <hi>Pro.</hi> 22.6. Children in underſtanding, <hi>Rom.</hi> 2.18.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what conſiſt the principles of Re<g ref="char:EOLhyphen"/>ligion?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt in the right knowledge of god.</p>
+            <p>Secondly in the right knowledge of man.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what conſiſts the right knowledge of God?</hi>
+            </p>
+            <p>
+               <label>A.</label> In a true underſtanding of him as he is revealed in his will, <hi>Ioh.</hi> 5.39.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what conſiſts a right knowledge of man?</hi>
+            </p>
+            <p>
+               <label>A.</label> In a clear underſtanding of his con<g ref="char:EOLhyphen"/>dition as it was, is, ſhalbe.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is the knowledge of God reveal<g ref="char:EOLhyphen"/>ed in his word?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt in his being.</p>
+            <p>Secondly in his working.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is God in his being made mani<g ref="char:EOLhyphen"/>feſt?</hi>
+            </p>
+            <p>
+               <pb facs="tcp:184282:3"/>
+Firſt, in regard of his nature, or eſſentially.</p>
+            <p>Secondly, in reſpect of his ſubſiſtence, or per<g ref="char:EOLhyphen"/>ſonally.</p>
+            <p>Thirdly, in reference to his Attributes, or no<g ref="char:EOLhyphen"/>minally.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is God in his working made knowne in his word?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, in reſpect of his creating all in time.</p>
+            <p>Secondly, in reſpect of his preſerving all till time be.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is God in his nature revealed?</hi>
+            </p>
+            <p>
+               <label>A.</label> An everlaſting being in himſelfe from himſelfe, <hi>Pſal.</hi> 90.1, 2. <hi>Exo.</hi> 3.14.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is God revealed in his Subſiſtence?</hi>
+            </p>
+            <p>
+               <label>A.</label> Three perſons in one divine nature.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is a perſon in the divine nature?</hi>
+            </p>
+            <p>
+               <label>A.</label> A divers manner of Subſiſting, diſtingui<g ref="char:EOLhyphen"/>ſhed each from other by an incommunicable propriety, as the Father to beget the Son, and on<g ref="char:EOLhyphen"/>ly to beget: the Son and onely the Son to be begotten: the Holy Ghoſt and onely the Holy Ghoſt to proceed.</p>
+            <p>
+               <label>Q</label> 
+               <hi>Is each of theſe perſons God?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, The Father is God, <hi>Eph.</hi> 6.23.</p>
+            <p>The Son is God, 1 <hi>Ioh.</hi> 5.20.</p>
+            <p>The Holy Ghoſt is God, <hi>Acts.</hi> 5.3.4.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Are there not more Gods then one then?</hi>
+            </p>
+            <p>
+               <label>A.</label> No: for theſe three are but one, 1 <hi>Ioh.</hi> 5.7.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth your Religion teach you to be<g ref="char:EOLhyphen"/>leeve
+<pb facs="tcp:184282:4"/>concerning theſe three Perſons?</hi>
+            </p>
+            <p>
+               <label>A.</label> Concerning the Father, that he is the Creator and preſerver of all things in earth and heaven, <hi>Pſal.</hi> 33.6.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Did not the Son and Holy Ghoſt create alſo?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes equally; but appropriated to the Fa<g ref="char:EOLhyphen"/>ther, as the Fountaine from whence all, as to diſtinguiſh the Son and Holy Ghoſt, <hi>Col.</hi> 1.15, 16, 17. <hi>Gen.</hi> 1.2.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is Creation?</hi>
+            </p>
+            <p>
+               <label>A.</label> A production of all things out of nothing, but by the omnipotent word of God, <hi>Heb.</hi> 11.3.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What be theſe all things?</hi>
+            </p>
+            <p>
+               <label>A.</label> Sun, Moon, Starrs, Angels, Man, with birds flying, fiſh ſwimming, beaſts feeding, &amp;c. <hi>Pſal.</hi> 148.5.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>To what end were all created?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, for the manifeſtation of his glory, <hi>Prov.</hi> 16.4.</p>
+            <p>Secondly, for the plentifull comfort of man, <hi>Rom</hi> 1.19, 20.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the preſerving that belongs to the Father?</hi>
+            </p>
+            <p>
+               <label>A.</label> That mercifull goodneſſe by which the creature is preſerved and governed, <hi>Pſal.</hi> 36.6. <hi>Pſa.</hi> 67.4.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How doth it appeare God is the Preſer<g ref="char:EOLhyphen"/>ver?</hi>
+            </p>
+            <p>
+               <label>A.</label> By the Scriptures in <hi>Pſal.</hi> 135.5, 6, 7. <hi>Acts</hi> 17.25, 28.</p>
+            <p>
+               <pb facs="tcp:184282:4"/>
+               <label>Q.</label> 
+               <hi>What doſt beleeve concerning the Son?</hi>
+            </p>
+            <p>
+               <label>A.</label> That he is equal with the Father, <hi>Phil.</hi> 2.7. from all eternity deputed, King over, Prieſt for, Prophet to his Church, <hi>Pſal.</hi> 2.6, <hi>Pſal.</hi> 10.4. <hi>Deut.</hi> 18.18. <hi>Acts</hi> 3.23.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What elſe beleeve you concerning Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> That in due time he was borne, <hi>Gal.</hi> 4.4. lived, dyed, roſe againe, ſits at Gods right hand till he come to judge the quick and dead, <hi>Rom.</hi> 5.4, 25. <hi>Eph.</hi> 1.20. <hi>Acts</hi> 3.21.</p>
+            <p>
+               <label>Q</label>u. <hi>What beleeveſt thou concerning the Holy Ghoſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> That he is God equall with the Father and Son, from whence we receive enlightning, ſtrengthning, ſanctification, comfort and power to mortifie ſinne, quicken grace, 1 <hi>John</hi> 5.7. <hi>Joh.</hi> 16.13. <hi>Acts</hi> 1.8. <hi>Rom.</hi> 15.16. <hi>Joh.</hi> 14.16. <hi>Rom.</hi> 8.13.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How is God revealed by his Attributes?</hi>
+            </p>
+            <p>
+               <label>A.</label> That he is a perfect, wiſe, powerfull, mer<g ref="char:EOLhyphen"/>cifull, faithfull, eternall, and moſt holy God, &amp;c.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doſt underſtand by a perfect God?</hi>
+            </p>
+            <p>
+               <label>A.</label> I underſtand that God is abſolutely per<g ref="char:EOLhyphen"/>fect in himſelfe, and the cauſe of perfection in others, <hi>Gen.</hi> 17.1. 1 <hi>John</hi> 1.5.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What underſtandeſt thou by this, God is a wiſe God?</hi>
+            </p>
+            <p>
+               <label>A.</label> That God is ſo infinite in his underſtand<g ref="char:EOLhyphen"/>ing, that he only knowes himſelfe, all things that have been, are, ſhall, and never ſhall be,
+<pb facs="tcp:184282:5"/>with every Circumſtance, <hi>Pſal.</hi> 147.5. 1 <hi>Cor.</hi> 2.13. <hi>Heb.</hi> 4.13. <hi>Pſal.</hi> 147.4. <hi>Rom.</hi> 4.17.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What underſtandeſt thou by Powerfull?</hi>
+            </p>
+            <p>
+               <label>A.</label> That God is able to act what he will, and afford ſtrength to the creature to doe what he liſt, <hi>Iſa.</hi> 46.10. <hi>Pſal.</hi> 68.35. <hi>Deu.</hi> 33.27.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What understandeſt thou by Merciful?</hi>
+            </p>
+            <p>
+               <label>A.</label> That God is ready to help Such as are or may be in miſery, <hi>Dan.</hi> 9.9. <hi>Pſal.</hi> 145.14. <hi>Pſa.</hi> 103.4.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What underſtandeſt thou by this Attri<g ref="char:EOLhyphen"/>bute Faithfull?</hi>
+            </p>
+            <p>
+               <label>A.</label> That God is one, ever true and faithfull of his word, <hi>Deu.</hi> 7.9. 2 <hi>Cor.</hi> 1.20. <hi>Pſa</hi> 89. <hi>from</hi> 1 <hi>to</hi> 9.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What underſtandeſt thou by this Attri<g ref="char:EOLhyphen"/>bute Eternall?</hi>
+            </p>
+            <p>
+               <label>A.</label> That God hath a being without begin<g ref="char:EOLhyphen"/>ing and end, <hi>Pſal.</hi> 90.1. 2. <hi>Deut.</hi> 24.27.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What underſtandeſt thou by Holy?</hi>
+            </p>
+            <p>
+               <label>A.</label> That God is infinitely pure and righteous in himſelfe, and the author of all holyneſſe in the creature, <hi>Iſa.</hi> 6.3. <hi>Ezek</hi> 37.28. <hi>Iſa.</hi> 63.18.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth your Religion teach you con<g ref="char:EOLhyphen"/>cerning the right underſtanding of man?</hi>
+            </p>
+            <p>
+               <label>A.</label> It teacheth me con<g ref="char:EOLhyphen"/>cerning his eſtate of
+<list>
+                  <item>Creation.</item>
+                  <item>Corruption.</item>
+                  <item>Grace.</item>
+                  <item>Glory.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What are you taught concerning mans Creation?</hi>
+            </p>
+            <p>
+               <pb facs="tcp:184282:5"/>
+               <label>A.</label> That he was made of the duſt of the earth in regard of his body, and of the breath of God in regard of his ſoule, <hi>Gen.</hi> 2.7.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what eſtate was he created?</hi>
+            </p>
+            <p>
+               <label>A.</label> In a good, wiſe, holy condition, after the image of God himſelfe, <hi>Gen.</hi> 1.27. <hi>Eccl.</hi> 7.29. <hi>Ephe.</hi> 4.23, 24.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Doth not man keep that condition ſtill?</hi>
+            </p>
+            <p>
+               <label>A.</label> No: he fell by diſobeying the command in eating the forbidden fruit, <hi>Gen.</hi> 2.17.3.6.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What did man loſe by this fall?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt the favour of God which he en<g ref="char:EOLhyphen"/>joyed, <hi>Gen.</hi> 38.9.</p>
+            <p>Secondly, the image of God which he poſeſſ<g ref="char:EOLhyphen"/>ed. <hi>Pſa.</hi> 51.6.</p>
+            <p>
+               <label>Q.</label> Was this all he Suffered?</p>
+            <p>
+               <label>A.</label> No: Firſt he and his become mortall, <hi>Gen.</hi> 2.17.3.22.</p>
+            <p>Secondly, his poſterity ſinfull, <hi>Rom.</hi> 5.12.</p>
+            <p>Thirdly, ſubject to wrath and judgment, <hi>Rom.</hi> 5.16.</p>
+            <p>Fourthly the Creature curſed, <hi>Gen.</hi> 3.17.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How ſhould wee ſin or ſuffer, when we were not?</hi>
+            </p>
+            <p>
+               <label>A.</label> Adam was a publick perſon, and we in his loynes, ſo wee ſin and ſuffer, <hi>Rom.</hi> 5.12. 1 <hi>Cor.</hi> 15.12.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Cannot man recover himſelfe from this condition?</hi>
+            </p>
+            <p>
+               <label>A.</label> No: being in ſin born, and unable to
+<pb facs="tcp:184282:6"/>thinke one good thought, or ſatisfie divine ju<g ref="char:EOLhyphen"/>ſtice, <hi>Pſal.</hi> 5.5. 2 <hi>Cor.</hi> 3.5.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How ſhall poore man eſcape the miſery he is brought into by Adams fall?</hi>
+            </p>
+            <p>
+               <label>A.</label> By Jeſus Chriſt the promiſed ſeed, <hi>Gen.</hi> 3.15. <hi>Gal.</hi> 3.16.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Perfect God, and perfect man; who in time came and laid downe his life for his, <hi>Gal.</hi> 4.4, 5. <hi>Rom.</hi> 5.19.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhy was Chriſt God?</hi>
+            </p>
+            <p>
+               <label>A.</label> To ſatisfie divine juſtice, <hi>Pſal.</hi> 40.6, 7.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why was he man?</hi>
+            </p>
+            <p>
+               <label>A.</label> For he was to ſuffer, <hi>Heb.</hi> 2.14.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why God and man?</hi>
+            </p>
+            <p>
+               <label>A.</label> To reconcile God to man, 2. <hi>Cor.</hi> 5.19.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Where is Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> At the right hand of God, <hi>Col.</hi> 3.1.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How ſhall we partake of Chriſts benefits?</hi>
+            </p>
+            <p>
+               <label>A.</label> By faith in Jeſus Chriſt, <hi>Ephe.</hi> 3.17.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is faith in Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> A particular receiving &amp; applying Chriſt to my ſoul as he is revealed in the word, 1 <hi>Ioh.</hi> 12.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What benefit will Chriſt procure by faith applyed?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, A regaining of Gods favour, <hi>Eph.</hi> 2.5, 6.</p>
+            <p>Secondly, A renewing of Gods jmage, 1 <hi>Cor.</hi> 1.30. <hi>Eph.</hi> 4.26.</p>
+            <p>Thirdly, with aſſurance of eternall glory, <hi>Rom.</hi> 8.17.</p>
+            <p>
+               <pb facs="tcp:184282:6"/>
+               <label>Q.</label> 
+               <hi>What danger eſcape we by applying Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, the ſting of death, 1 <hi>Cor.</hi> 15.55.</p>
+            <p>Secondly, The ſlavery of ſin, <hi>Rom.</hi> 7.25.</p>
+            <p>Thirdly, The wrath of God, <hi>Rom.</hi> 5.9.</p>
+            <p>Fourthly, The curſe of creatures, <hi>Col.</hi> 1.15.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what conſiſts the eſtate of Glory?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, in the free<g ref="char:EOLhyphen"/>dome from all
+<list>
+                  <item>ſin, <hi>Rev.</hi> 22.3, 15.</item>
+                  <item>miſery, <hi>Rev.</hi> 21.4.</item>
+               </list>
+            </p>
+            <p>Secondly, in the enjoyment of all good, <hi>Rev.</hi> 21.23, 25.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth Chriſt expect from man for theſe his unſpeakable mercies?</hi>
+            </p>
+            <p>
+               <label>A.</label> Chriſtian ob<g ref="char:EOLhyphen"/>ſervance to his
+<list>
+                  <item>Commands enjoyned.</item>
+                  <item>Prayer preſcribed.</item>
+                  <item>Sacraments appointed.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Which be the Commandements enjoyned?</hi>
+            </p>
+            <p>
+               <label>A.</label> Thoſe written in 20 of Exodus, 3, &amp;c.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the firſt Commandement?</hi>
+            </p>
+            <p>
+               <label>A.</label> Thou ſhalt have no other God before me.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning hereof?</hi>
+            </p>
+            <p>
+               <label>A.</label> That tis my duty to love, feare and truſt in God alone.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the ſecond?</hi>
+            </p>
+            <p>
+               <label>A.</label> That no Idolatry, nor Idolatrous worſhip, be committed by me; but outwardly and in<g ref="char:EOLhyphen"/>wardly God is to be ſerved as he will of me.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the third Com<g ref="char:EOLhyphen"/>mandement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That I nor blaſpheme, curſe, ſweare, or lightly uſe the name of God.</p>
+            <p>
+               <pb facs="tcp:184282:7"/>
+               <label>Q.</label> 
+               <hi>What is the meaning of the fourth Com<g ref="char:EOLhyphen"/>mandement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That I prepare to ſanctifie God in, and me<g ref="char:EOLhyphen"/>ditate on the duties of a ſabbath day.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the fifth Comman<g ref="char:EOLhyphen"/>dement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That I reverence, obey, love my parents, that is Magiſtrates, Miniſters, Governours, and all my Superiours.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the ſixth Comman<g ref="char:EOLhyphen"/>dement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That nor in tongue, deſire, action, or ap<g ref="char:EOLhyphen"/>probation, I harm my ſelfe or other.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the Seventh Com<g ref="char:EOLhyphen"/>mandement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That I ſhun all occaſions, contemplations, actions, ſpeeches, tending to Adultery, Fornica<g ref="char:EOLhyphen"/>tion, or any uncleanneſſe whatſoever.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the eighth Com<g ref="char:EOLhyphen"/>mandement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That I nor violently nor frandulently, rob, oppreſſe, deceive mine or my neighbour.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the ninth Com<g ref="char:EOLhyphen"/>mandement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That I nor accuſe, backbite, lye, flatter, willingly or unjuſtly.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the tenth Com<g ref="char:EOLhyphen"/>dement?</hi>
+            </p>
+            <p>
+               <label>A.</label> That I labour for purity of heart, and cleanneſſe of thought in all my converſation.</p>
+            <p>
+               <pb facs="tcp:184282:7"/>
+               <label>Q.</label> 
+               <hi>What is Prayer?</hi>
+            </p>
+            <p>
+               <label>A.</label> A powring out of the ſoule to God, be<g ref="char:EOLhyphen"/>lieving we ſhall be heard for Chriſts ſake, <hi>Pſal.</hi> 62.8. <hi>Heb.</hi> 11.6. <hi>Joh.</hi> 16.23.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is that prayer preſcribed for us by Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> That call'd the Lords Prayer, <hi>Mat.</hi> 6.9.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Of what parts doth this prayer conſiſt?</hi>
+            </p>
+            <p>It conſiſts of
+<list>
+                  <item>1 Preface.</item>
+                  <item>2 Petition.</item>
+                  <item>3 Concluſion.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the preface?</hi>
+            </p>
+            <p>
+               <label>A.</label> Our father which art in heaven.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the Petition.</hi>
+            </p>
+            <p>
+               <label>A.</label> Hallowed be thy name, &amp;c.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the concluſion?</hi>
+            </p>
+            <p>
+               <label>A.</label> Thine is the Kingdome, &amp;c.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the firſt Petition?</hi>
+            </p>
+            <p>That God in himſelfe, words, workes, be honoured by us, and the contrary rooted out of us.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the ſecond petition?</hi>
+            </p>
+            <p>
+               <label>A.</label> That by the power of Gods word and Spirit there may be dayly added ſuch as ſhalbe ſaved, being delivered from the power of dark<g ref="char:EOLhyphen"/>neſſe and tranſlated, 1. <hi>Col.</hi> 13.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the third Petition?</hi>
+            </p>
+            <p>
+               <label>A.</label> That God would frame our will in all things to obey him as the angels in heaven.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <pb facs="tcp:184282:8"/>
+               <label>A.</label> That God would ſend ſuch things and perſons as are convenient for us and neceſſary to us in this life.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the fifth Petition?</hi>
+            </p>
+            <p>
+               <label>A.</label> That our ſins paſt be pardoned to us, and for the time to come ſubdued in us, expreſſ<g ref="char:EOLhyphen"/>ed by a full forgiveneſſe of all our treſpaſſours againſt us.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the meaning of the ſixth Petition?</hi>
+            </p>
+            <p>
+               <label>A.</label> That nor by world, fleſh, Satan, we be carried into ſin, miſery, temptation, damnation.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What are the Sacraments Chriſt hath or<g ref="char:EOLhyphen"/>dained?</hi>
+            </p>
+            <p>
+               <label>A.</label> Baptiſme and the Lords Supper?</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <label>A.</label> An outward ſacred ſigne of an inward ſealed grace?</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is Baptiſme?</hi>
+            </p>
+            <p>
+               <label>A.</label> A Sacrament of our admitting into the Church, and of our engrafting into Chriſt.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſacred ſigne?</hi>
+            </p>
+            <p>
+               <label>A.</label> Water by word and prayer ſanctified; with which the perſon is dipped and ſprinkled.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſealed grace?</hi>
+            </p>
+            <p>
+               <label>A.</label> Remiſſion and Sanctification.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is required of ſuch as are baptiſed?</hi>
+            </p>
+            <p>
+               <label>A.</label> Repentance to confeſſe ſin, faith to be<g ref="char:EOLhyphen"/>leeve grace ſealed.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why ſhould children be baptiſed?</hi>
+            </p>
+            <p>
+               <label>A.</label> F<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt, they are in the covenant, <hi>Gen.</hi> 17.7.</p>
+            <p>
+               <pb facs="tcp:184282:8"/>
+Secondly, the promiſe to them, <hi>Acts.</hi> 2.39.</p>
+            <p>Thirdly to them the Holy Ghoſt, <hi>Luk.</hi> 1.15.</p>
+            <p>Fourthly, the Command is vniverſall, <hi>Mat.</hi> 28.19.</p>
+            <p>Fifthly, the practiſe of antiquity.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the Lords Supper?</hi>
+            </p>
+            <p>
+               <label>A.</label> A Sacrament confirming and ſealing the graces of Chriſt to the ſoule of every worthy Receiver.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the outward ſacred ſigne?</hi>
+            </p>
+            <p>
+               <label>A.</label> Bread and Wine.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the inward ſealed grace?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The Body &amp; Bloud of Jeſus Chriſt, with all his
+<list>
+                  <item>Promiſes.</item>
+                  <item>Graces.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why was it inſtituted?</hi>
+            </p>
+            <p>
+               <label>A.</label> For a Remembrance of Chriſt in our hearts.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is required of thoſe that partake of this Sacrament of the Lords Supper?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, knowledge to diſcerne the Lords body, 1. <hi>Cor.</hi> 11.27, 29.</p>
+            <p>Secondly, faith to beleeve the myſtery of the Sacrament.</p>
+            <p>Thirdly, ſelfe examination, 1 <hi>Cor.</hi> 11.28.</p>
+            <p>Fourthly, thankfulneſſe for this ſtrengthen<g ref="char:EOLhyphen"/>ing Sacrament.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat if man hath not theſe graces? what ſhould he doe?</hi>
+            </p>
+            <p>
+               <label>A.</label> Let him mourn, pray, endeavour after them, that he be not guilty of Chriſts condemn<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:184282:9"/>and crucifying</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How ſhall I obtaine theſe gifts and graces?</hi>
+            </p>
+            <p>
+               <label>A.</label> From the fountaine of all good, God the Father, by the merit of God the Son, through the influence of God the holy Ghoſt; three in one, one in three, to whom bee glory, praiſe, and power, now and ever. Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184282:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
